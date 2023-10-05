@@ -1,0 +1,1 @@
+Collection of lists to use with PiHole to block or allow different services
